@@ -1,0 +1,16 @@
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\DAL\obj\Debug\DAL.pdb
+E:\C# - Actividades en clase\BancoGUI\DAL\bin\Debug\DAL.dll
+E:\C# - Actividades en clase\BancoGUI\DAL\bin\Debug\DAL.pdb
+E:\C# - Actividades en clase\BancoGUI\DAL\bin\Debug\Entity.dll
+E:\C# - Actividades en clase\BancoGUI\DAL\bin\Debug\Entity.pdb
+E:\C# - Actividades en clase\BancoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\C# - Actividades en clase\BancoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C# - Actividades en clase\BancoGUI\DAL\obj\Debug\DAL.dll
+E:\C# - Actividades en clase\BancoGUI\DAL\obj\Debug\DAL.pdb

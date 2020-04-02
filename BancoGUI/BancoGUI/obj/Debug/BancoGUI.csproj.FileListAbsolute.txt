@@ -1,0 +1,34 @@
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\BancoGUI.exe.config
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\BancoGUI.exe
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\BancoGUI.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\BLL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\Entity.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\BLL.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\Entity.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.Properties.Resources.resources
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.csproj.GenerateResource.cache
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.csproj.CopyComplete
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.exe
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\DAL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\bin\Debug\DAL.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.MenuPrincipal.resources
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BancoGUI\obj\Debug\BancoGUI.RegistroCuenta.resources
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\BancoGUI.exe.config
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\BancoGUI.exe
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\BancoGUI.pdb
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\BLL.dll
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\Entity.dll
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\DAL.dll
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\BLL.pdb
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\Entity.pdb
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\bin\Debug\DAL.pdb
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.csprojAssemblyReference.cache
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.MenuPrincipal.resources
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.Properties.Resources.resources
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.RegistroCuenta.resources
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.csproj.GenerateResource.cache
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.csproj.CopyComplete
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.exe
+E:\C# - Actividades en clase\BancoGUI\BancoGUI\obj\Debug\BancoGUI.pdb

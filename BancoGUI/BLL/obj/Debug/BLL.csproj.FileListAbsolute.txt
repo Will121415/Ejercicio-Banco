@@ -1,0 +1,20 @@
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\BLL\obj\Debug\BLL.pdb
+E:\C# - Actividades en clase\BancoGUI\BLL\bin\Debug\BLL.dll
+E:\C# - Actividades en clase\BancoGUI\BLL\bin\Debug\BLL.pdb
+E:\C# - Actividades en clase\BancoGUI\BLL\bin\Debug\DAL.dll
+E:\C# - Actividades en clase\BancoGUI\BLL\bin\Debug\Entity.dll
+E:\C# - Actividades en clase\BancoGUI\BLL\bin\Debug\DAL.pdb
+E:\C# - Actividades en clase\BancoGUI\BLL\bin\Debug\Entity.pdb
+E:\C# - Actividades en clase\BancoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\C# - Actividades en clase\BancoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\C# - Actividades en clase\BancoGUI\BLL\obj\Debug\BLL.dll
+E:\C# - Actividades en clase\BancoGUI\BLL\obj\Debug\BLL.pdb

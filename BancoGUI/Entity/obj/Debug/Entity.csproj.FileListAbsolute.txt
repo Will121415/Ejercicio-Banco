@@ -1,0 +1,10 @@
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\Entity\bin\Debug\Entity.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\Entity\obj\Debug\Entity.dll
+C:\Users\SEBASTIAN OCHOA\source\repos\BancoGUI\Entity\obj\Debug\Entity.pdb
+E:\C# - Actividades en clase\BancoGUI\Entity\bin\Debug\Entity.dll
+E:\C# - Actividades en clase\BancoGUI\Entity\bin\Debug\Entity.pdb
+E:\C# - Actividades en clase\BancoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\C# - Actividades en clase\BancoGUI\Entity\obj\Debug\Entity.dll
+E:\C# - Actividades en clase\BancoGUI\Entity\obj\Debug\Entity.pdb
